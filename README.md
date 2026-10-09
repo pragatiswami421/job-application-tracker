@@ -153,16 +153,16 @@ Use only the status values defined by the backend model.
 
 
 
-
 ## Screenshots
 
 ### Job Application Tracker Dashboard
 
-![Job Application Tracker Dashboard](screenshots/dashboard.png)
+![Job Application Tracker Dashboard](./dashboard.png)
 
 ### Job Application List
 
-![Job Application List](screenshots/job-list.png)
+![Job Application List](./job-list.png)
+
 
 
 
