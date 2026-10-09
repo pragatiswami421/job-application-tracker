@@ -152,7 +152,6 @@ The following endpoint pattern is intended for the job CRUD API. Confirm the exa
 Use only the status values defined by the backend model.
 
 
-
 ## Screenshots
 
 ### Job Application Tracker Dashboard
